@@ -1,0 +1,42 @@
+  {
+    "headers": ["Model", "Maker", "Year", "Transmission Type"],
+    "cars": [
+      {
+        "model": "Urus",
+        "maker": "Lamborghini",
+        "year": "2017",
+        "transmission": "Automatic"
+      },
+      {
+        "model": "Cayenne Turbo",
+        "maker": "Porsche",
+        "year": "2018",
+        "transmission": "Automatic"
+      },
+      {
+        "model": "Durango SRT",
+        "maker": "Dodge",
+        "year": "2018",
+        "transmission": "Automatic"
+      },
+      {
+        "model": "Juke Nismo RS",
+        "maker": "Nissan",
+        "year": "2014",
+        "transmission": "Manual"
+      },
+      {
+        "model": "Escalade ESV",
+        "maker": "Cadillac",
+        "year": "2012",
+        "transmission": "Automatic"
+      },
+      {
+        "model": "Levante",
+        "maker": "Maserati",
+        "year": "2017",
+        "transmission": "Automatic"
+      }
+    ]
+  }
+
